@@ -1,4 +1,8 @@
 name: CustomDisc
 version: 1.0
 main: com.gunnar.customdisc.CustomDisc
-api-version: 1.21.1
+api-version: 1.21
+
+commands:
+  testdisc:
+    description: Test command for CustomDisc plugin
