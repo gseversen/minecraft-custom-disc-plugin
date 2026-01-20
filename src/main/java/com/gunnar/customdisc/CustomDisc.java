@@ -13,5 +13,5 @@ public class CustomDisc extends JavaPlugin {
     public void onDisable() {
         getLogger().info("CustomDisc plugin stopped!");
         // Your plugin cleanup code here
-    }
+    }    
 }
